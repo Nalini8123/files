@@ -1,0 +1,11 @@
+Go to the Jenkins home page and click Manage Jenkins.
+Select Configure System.
+Scroll down to the Email Notification section.
+Enter the SMTP server name as smtp.gmail.com.
+Click Advanced.
+Select Use SMTP Authentication.
+Enter your Gmail ID and password.
+Select Use SSL.
+Enter 465 as the SMTP port.
+Enter your email ID as the Reply-to-Address.
+Click Save.
